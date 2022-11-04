@@ -20,7 +20,7 @@
 
 ## Summary
 
-This is a simple command line application that can load tasks from YAML files via STDIN and to perform actions
+This is a simple command line application that can load tasks from YAML files via STDIN and perform actions
 
 ## Technology
 
